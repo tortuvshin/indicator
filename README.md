@@ -1,10 +1,5 @@
 ## Cryptocoin Price Indicator
 
-<p align="left">
-<a class="badge-align" href="https://www.codacy.com/app/tortuvshin/cryptocoin-price?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tortuvshin/indicator&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/b26eba42a2da46f3aa9dc5598447b8ed"/></a>
-<a href="https://travis-ci.org/tortuvshin/indicator">
-<img src="https://travis-ci.org/tortuvshin/indicator.svg?branch=master"
-    alt="Build Status"></a>
 <a href="https://github.com/tortuvshin/indicator/issues">
 <img src="https://img.shields.io/github/issues/tortuvshin/indicator.svg"
     alt="Issues"></a>
